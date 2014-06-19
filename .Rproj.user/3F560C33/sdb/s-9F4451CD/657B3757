@@ -1,0 +1,16 @@
+{
+    "contents" : "---\ntitle       : title\nsubtitle    : subtitle\nauthor      : me\njob         : internet\nframework   : io2012        # {io2012, html5slides, shower, dzslides, ...}\nhighlighter : highlight.js  # {highlight.js, prettify, highlight}\nhitheme     : tomorrow      # \nwidgets     : []            # {mathjax, quiz, bootstrap}\nmode        : selfcontained # {standalone, draft}\nknit        : slidify::knit2slides\n---\n\n\n.class #id \n\n## Slide 2\n\ntest slide 2\n\n--- \n\n",
+    "created" : 1403170855889.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3202854701",
+    "id" : "657B3757",
+    "lastKnownWriteTime" : 1403171227,
+    "path" : "~/Documents/GitHub/slidify/first_deck/index.Rmd",
+    "project_path" : "first_deck/index.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
